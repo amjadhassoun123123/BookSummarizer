@@ -1,7 +1,7 @@
 import re
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def split_chapters(book_text):
